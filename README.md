@@ -10,7 +10,7 @@
 
 ## Education:
 
-#### 2. [SMK TARUNA BHAKTI DEPOK](https://smktarunabhakti.net/) | REKAYASA PERANGKAT LUNAK | DEPOK `2020-2023`
+#### 1. [SMK TARUNA BHAKTI DEPOK](https://smktarunabhakti.net/) | REKAYASA PERANGKAT LUNAK | DEPOK `2020-2023`
 
 - Student
 
