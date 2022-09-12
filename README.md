@@ -40,9 +40,12 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCUHCwvXpLHawibe7PS_qAtA)
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/samuel-j-9a9a15227/)
-[![website](./img/instagram-light.svg)](https://www.instagram.com/27apolloo/)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCUHCwvXpLHawibe7PS_qAtA)
+&nbsp;&nbsp;
+[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/samuel-j-9a9a15227/)
+&nbsp;&nbsp;
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/27apolloo/)
 
 [webdev]: https://github.com/jejeV
