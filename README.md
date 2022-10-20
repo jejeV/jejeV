@@ -3,49 +3,26 @@
 ## About me:
 
 - 🌱 I’m currently learning Laravel and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
-- 💬 Ask me about anything
 - 📫 How to reach me: muejason27@gmail.com
 
-## Education:
+# Languages and tools
 
-#### 1. [SMK TARUNA BHAKTI DEPOK](https://smktarunabhakti.net/) | REKAYASA PERANGKAT LUNAK | DEPOK `2020-2023`
+<img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" /><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+<img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"><img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="><img alt="Sublime Text" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 
-- Student
+# Projects
 
-## Work Experience:
++ Coming Soon
 
-#### 1. [PT. Intregrasi Jaringan Ekosistem](https://weave.co.id) | Backend Developer | Jakarta Selatan `Aug'2022 - Now`
+# GitHub stats
 
-- Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-- Responsible to improve and realize project delivery as timeline
-- Create Automation using Python and VBA Excel for day-to-day routine
+<img alt="jejeV GitHub Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=jejeV&hide_title=false&theme=solarized-light&show_icons=true&count_private=true&hide_border=true"><img alt="jejeV GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=jejeV&theme=solarized-light&hide_border=true" width="48%">
 
----
+# Random quotes
 
-### Languages and Tools:
+<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+# Profile view
 
-<br />
-<br />
-
----
-
-### Connect with me:
-
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCUHCwvXpLHawibe7PS_qAtA)
-&nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/samuel-j-9a9a15227/)
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/27apolloo/)
-
-[webdev]: https://github.com/jejeV
+<img src="https://gpvc.arturio.dev/jejeV" alt="Profile views"/>
