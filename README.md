@@ -3,7 +3,6 @@
 ## About me:
 
 - 🌱 I’m currently learning Laravel and ReactJS
-- 📫 How to reach me: muejason27@gmail.com
 
 # Languages and tools
 
